@@ -13,6 +13,14 @@
 	  "help_br": ""
 	},
 	
+	"Show variable template2": {
+	  "name": "enable_variable2",
+	  "type": "bool",
+	  "help": "Enable variable.",   
+	  "help_br": ""
+	},
+	
+	
 	"Testing list items": {
 		"name": "colour_preset",
 		"help": "Just an list to test configs.",

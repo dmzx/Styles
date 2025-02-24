@@ -77,6 +77,17 @@
 			"ff370f"
 		]
 	},
+	
+	"Testing colour output3": {
+		"name": "colour_picker_colour3",
+		"help": "Colour output2 testing.",
+		"help_br": "Note: test br below",
+		"type": "colour",
+		"values": [
+			"red"
+		]
+	},
+
 
 	"Testing bool output": {
 		"name": "contrast_links",

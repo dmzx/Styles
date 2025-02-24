@@ -49,6 +49,13 @@
 		"help_br": "Note: test br below",
 		"type": "string"
 	},
+	
+	"Testing colour output": {
+		"name": "colour_picker_colour",
+		"help": "Colour output testing.",
+		"help_br": "Note: test br below",
+		"type": "colour"
+	},
 
 	"Testing bool output": {
 		"name": "contrast_links",

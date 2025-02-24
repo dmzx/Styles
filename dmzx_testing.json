@@ -55,9 +55,7 @@
 		"help": "Colour output testing.",
 		"help_br": "Note: test br below",
 		"type": "colour",
-		"values": [
-			"4124ff"
-		]
+		"colour": "4124ff"
 	},
 
 	"Testing bool output": {

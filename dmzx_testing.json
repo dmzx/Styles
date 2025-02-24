@@ -1,0 +1,44 @@
+{	
+	"Enable extension": {
+	  "name": "enable_extension",
+	  "type": "bool",
+	  "help": "Enable available.",   
+	  "help_br": ""
+	},
+	
+	"Show variable template": {
+	  "name": "enable_variable",
+	  "type": "bool",
+	  "help": "Enable variable.",   
+	  "help_br": ""
+	},
+	
+	"Testing list items": {
+		"name": "colour_preset",
+		"help": "Just an list to test configs.",
+		"help_br": "",
+		"type": "list",
+		"values": [
+			"Custom (Use colour picker below)",
+			"No Custom Colour",
+			"Blue",
+			"Black",
+			"Red",
+			"yellow"
+		]
+	},
+
+	"Testing string output": {
+		"name": "colour_picker",
+		"help": "Sting output testing.",
+		"help_br": "Note: test br below",
+		"type": "string"
+	},
+
+	"Testing bool output": {
+		"name": "contrast_links",
+		"help": "Test bool output.",
+		"help_br": "Default Value: No",
+		"type": "bool"
+	}
+} 

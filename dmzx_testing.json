@@ -59,6 +59,16 @@
 			"4124ff"
 		]
 	},
+	
+	"Testing colour output2": {
+		"name": "colour_picker_colour2",
+		"help": "Colour output2 testing.",
+		"help_br": "Note: test br below",
+		"type": "colour",
+		"values": [
+			"ff370f"
+		]
+	},
 
 	"Testing bool output": {
 		"name": "contrast_links",

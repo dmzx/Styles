@@ -27,6 +27,21 @@
 			"yellow"
 		]
 	},
+	
+	"Testing multi items": {
+		"name": "colour_multi",
+		"help": "Just an list to test configs.",
+		"help_br": "",
+		"type": "multi",
+		"values": [
+			"Custom (Use colour picker below)",
+			"No Custom Colour",
+			"Blue",
+			"Black",
+			"Red",
+			"yellow"
+		]
+	},
 
 	"Testing string output": {
 		"name": "colour_picker",

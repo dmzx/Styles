@@ -54,7 +54,10 @@
 		"name": "colour_picker_colour",
 		"help": "Colour output testing.",
 		"help_br": "Note: test br below",
-		"type": "colour"
+		"type": "colour",
+		"values": [
+			"4124ff"
+		]
 	},
 
 	"Testing bool output": {
